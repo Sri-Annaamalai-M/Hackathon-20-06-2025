@@ -1,0 +1,130 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+/dist/
+/build/
+/frontend/dist/
+/frontend/build/
+/src/dist/
+/src/build/
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+out/
+
+# Nuxt.js build / generate output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Storybook build outputs
+.out/
+.storybook-out/
+storybook-static/
+
+# Temporary folders
+tmp/
+temp/
+
+# Uploaded files
+uploads/
+files/
+documents/
+resumes/
+*.pdf
+*.docx
+*.doc
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuration files with sensitive data
+config.ini
+settings.json
+secrets.json
+credentials.json
+
+# API keys and secrets
+.secrets
+api_keys.txt
+*.key
+*.pem
+*.crt
+
+# Docker
+Dockerfile.prod
+docker-compose.override.yml
+.dockerignore
+
+# IDE specific files
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# OS generated files
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
