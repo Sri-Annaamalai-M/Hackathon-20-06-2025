@@ -217,3 +217,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google Gemini AI for powering the intelligent agents
 - SentenceTransformer for embedding generation
 - MongoDB for providing flexible data storage
+
+- ![image](https://github.com/user-attachments/assets/bc286cba-2f92-44c1-9336-f1f4b04b7949)
